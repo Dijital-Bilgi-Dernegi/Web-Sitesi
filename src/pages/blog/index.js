@@ -10,14 +10,14 @@ export default class BlogIndexPage extends React.Component {
         <div
           className="full-width-image-container margin-top-0"
           style={{
-            backgroundImage: `url('/img/Wikimedia_Conference_2016_-_165.jpg')`,
+            backgroundImage: `url('/img/Kadın_Eserleri_Kütüphanesi_Vikimaraton_2017.jpg')`,
           }}
         >
           <h1
             className="has-text-weight-bold is-size-1"
             style={{
-              boxShadow: '0.5rem 0 0 #f40, -0.5rem 0 0 #f40',
-              backgroundColor: '#f40',
+              boxShadow: '0.5rem 0 0 #00b0b9, -0.5rem 0 0 #00b0b9',
+              backgroundColor: '#00b0b9',
               color: 'white',
               padding: '1rem',
             }}

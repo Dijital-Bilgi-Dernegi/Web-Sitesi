@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Dijital Bilgi Derneği
+image: /img/Editieren_in_der_Wikipedia.jpg
+heading: Amacımız
+subheading: Dijital bilgi üretimine herkesin aktif katılabilmesini istiyoruz.
 mainpitch:
-  title: Why Kaldi
+  title: Why Kaldia
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans

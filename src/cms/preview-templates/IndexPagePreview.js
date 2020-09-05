@@ -14,11 +14,10 @@ const IndexPagePreview = ({ entry, getAsset }) => {
         subheading={data.subheading}
         description={data.description}
         intro={data.intro || { blurbs: [] }}
-        mainpitch={data.mainpitch || {}}
       />
     )
   } else {
-    return <div>Loading...</div>
+    return <div>Yükleniyor...</div>
   }
 }
 

@@ -4,39 +4,27 @@ image: /img/Editieren_in_der_Wikipedia.jpg
 title: Dijital Bilgi Derneği
 subheading: Dijital bilgi üretimine herkesin aktif katılabilmesini istiyoruz.
 heading: Amacımız
-mainpitch:
-  title: Why Kaldia
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
 description: >-
   Bilgi teknolojileri, internet kullanıcısı herkesin dijital bilgi ve içerik üretimine katılmasına olanak veriyor. Dijital Bilgi Derneği, internet kullanıcılarının bu olanağı değerlendirmesi için çalışır. Bizce hiç kimse, internet yoluyla eriştiği bilgilerin pasif birer tüketicisi olarak kalmamalı. İnternet kullanıcılarının bilgi birikimlerini internette paylaşmasına, herkesin serbestçe erişeceği nitelikli içeriklerin çoğalmasına destek vermek istiyoruz. İnternet ortamındaki bu gönüllü paylaşımların bireysel ve toplumsal zenginliğe dönüşeceğine inanıyoruz. İnsanlığın ortak birikimi olan bilimsel, kültürel, teknolojik, sanatsal gelişmeleri dünyanın her köşesinde, orada yaşayan toplumların kendi anadiliyle ulaşılabilir kılmak için yardımlaşmayı destekliyoruz.
+
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: Açık lisanslı eğitim içeriği ve bilgi paylaşımı.
-      
-    - image: /img/coffee-gear.png
-      text: Dijital becerileri artırma
+    - image: /img/Technion_Hackathon.jpg
+      text1: İnternette açık lisanslı eğitim içeriği ve bilgi paylaşımını geliştirmek ve zenginleştirmek;
+      text2: Toplum genelinde bilişim okuryazarlığını ve dijital becerileri artırmak için eğitimler ve seminerler düzenlemek, bu alanda içerik üretmek ve yayımlamak; 
+        
+    - image: /img/Barbican_Conservatory_at_4-15pm_on_day_2_of_the_Wikimania_2014_hackathon_06.jpg
+      text1: İnternet kullanıcılarının internette gönüllü içerik üretimine aktif katılmasına destek olmak;
+      text2: İnternet mecralarındaki Türkçe içerik üreticilerinin açık lisansları tanıması ve seçmesi için çaba göstermek; 
 
-    - image: /img/tutorials.png
-      text: Gönüllü dijital üretime destek
+    - image: /img/Wikimania_hackathon_2.jpeg
+      text1: Bilgi ve iletişim teknolojilerine erişimdeki ve bilgi paylaşımına katılımdaki toplumsal, bölgesel ve cinsiyete bağlı eşitsizliklerle mücadele etmek;
+      text2: Dijital bilgi paylaşımı ve dijital becerileri geliştirme ile ilgili ulusal ve uluslararası kongre, konferans ve benzeri etkinlikler düzenlemek, yapılan etkinliklere etkin katılım sağlamak
 
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    - image: /img/VikiMaraton2.jpg
+      text1: Dijital içerik üretimi ile ilgili ulusal ve uluslararası yarışmalar düzenlemek;
+      text2: Türkiye’nin ve Türkiye’deki kültür, bilim, sanat varlıklarının dijital ortamlarda tanıtımı için içerik oluşturulmasını desteklemek.
+
 main:
   heading: Great coffee with no compromises
   description: >

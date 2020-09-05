@@ -11,7 +11,6 @@ export const IndexPageTemplate = ({
   title,
   heading,
   subheading,
-  mainpitch,
   description,
   intro,
 }) => (
@@ -29,7 +28,7 @@ export const IndexPageTemplate = ({
       <div
         style={{
           display: 'flex',
-          height: '150px',
+          height: '400px',
           lineHeight: '1',
           justifyContent: 'space-around',
           alignItems: 'left',
@@ -153,24 +152,19 @@ export const pageQuery = graphql`
         }
         heading
         subheading
-        mainpitch {
-          title
-          description
-        }
         description
         intro {
           blurbs {
             image {
               childImageSharp {
-                fluid(maxWidth: 240, quality: 64) {
+                fluid(maxWidth: 500, quality: 64) {
                   ...GatsbyImageSharpFluid
                 }
               }
             }
-            text
+            text1
+            text2
           }
-          heading
-          description
         }
       }
     }

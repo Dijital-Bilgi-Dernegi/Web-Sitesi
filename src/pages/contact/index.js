@@ -39,7 +39,12 @@ export default class Index extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1>Contact</h1>
+              <h1>İletişim</h1>
+              <div className="myClass" style={{marginBottom: '5em'}} >
+              <p>Osmanağa Mh. Söğütlüçeşme Cd. Bulvar Çarşı No: 127 Kadıköy, İstanbul</p>
+              <p>Derbis Kütük No:34-261-172</p>
+              <p>bilgi@dijitalbilgi.org.tr</p>
+              </div>
               <form
                 name="contact"
                 method="post"
@@ -58,7 +63,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'name'}>
-                    Your name
+                    İsminiz
                   </label>
                   <div className="control">
                     <input
@@ -73,7 +78,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'email'}>
-                    Email
+                    Email adresiniz
                   </label>
                   <div className="control">
                     <input
@@ -88,7 +93,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'message'}>
-                    Message
+                    Mesajınız
                   </label>
                   <div className="control">
                     <textarea
@@ -102,7 +107,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <button className="button is-link" type="submit">
-                    Send
+                    Gönder
                   </button>
                 </div>
               </form>

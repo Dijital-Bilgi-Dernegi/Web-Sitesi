@@ -4,8 +4,8 @@ import Layout from '../components/Layout'
 const NotFoundPage = () => (
   <Layout>
     <div>
-      <h1>NOT FOUND</h1>
-      <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
+      <h1>SAYFA BULUNAMADI</h1>
+      <p>Üzgünüz :(</p>
     </div>
   </Layout>
 )

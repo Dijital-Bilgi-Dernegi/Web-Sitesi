@@ -17,6 +17,12 @@ const Footer = class extends React.Component {
             alt="Dijital Bilgi Derneği"
             style={{ width: '14em' }}
           />
+              <div className="myClass" style={{marginBottom: '5em'}}>
+              <p style={{marginBottom: '3em'}}></p>
+              <p style={{marginBottom: '0em'}}>Osmanağa Mh. Söğütlüçeşme Cd. Bulvar Çarşı No: 127 Kadıköy, İstanbul</p>
+              <p style={{marginBottom: '0em'}}>Derbis Kütük No:34-261-172</p>
+              <p style={{marginBottom: '0em'}}>bilgi@dijitalbilgi.org.tr</p>
+              </div>
         </div>
         <div className="content has-text-centered has-background-black has-text-white-ter">
           <div className="container has-background-black has-text-white-ter">

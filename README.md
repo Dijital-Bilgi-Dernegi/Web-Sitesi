@@ -1,6 +1,14 @@
-# Gatsby + Netlify CMS Starter
+# http://dijitalbilgi.org.tr/
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b654c94e-08a6-4b79-b443-7837581b1d8d/deploy-status)](https://app.netlify.com/sites/gatsby-starter-netlify-cms-ci/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3782ea10-9cef-4f7d-99a7-479a9255022f/deploy-status)](https://app.netlify.com/sites/dijital-bilgi-dernegi/deploys)
+
+
+
+
+
+------
+
+
 
 **Note:** This starter uses [Gatsby v2](https://www.gatsbyjs.org/blog/2018-09-17-gatsby-v2/).
 
